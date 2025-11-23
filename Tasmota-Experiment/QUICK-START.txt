@@ -1,0 +1,63 @@
+╔══════════════════════════════════════════════════════════════╗
+║         SmallTV-Ultra Tasmota Flash - Quick Guide           ║
+╚══════════════════════════════════════════════════════════════╝
+
+🚀 READY TO FLASH? FOLLOW THESE STEPS:
+
+1️⃣  Power on SmallTV-Ultra
+
+2️⃣  Connect to device WiFi or access via network
+
+3️⃣  Open browser: http://192.168.4.1
+
+4️⃣  Go to: Firmware Upgrade / Update
+
+5️⃣  Choose file: tasmota-display.bin
+
+6️⃣  Click: Update / Start Upgrade
+
+7️⃣  Wait 30 seconds (don't unplug!)
+
+8️⃣  Connect to WiFi: "tasmota-XXXXXX"
+
+9️⃣  Access: http://192.168.4.1
+
+🔟  Configure WiFi and enjoy!
+
+═══════════════════════════════════════════════════════════════
+
+⚠️  EXPECT: Display will be BLANK (normal!)
+✅  WORKING: WiFi, Web Interface, OTA Updates
+📖  NEXT: Read DISPLAY-CONFIGURATION.md to configure display
+🔙  UNDO: Read RECOVERY-PROCEDURE.md to flash back
+
+═══════════════════════════════════════════════════════════════
+
+📁 FILES YOU NEED:
+
+✓ tasmota-display.bin          → Tasmota firmware (flash this)
+✓ FLASH-INSTRUCTIONS.md        → Detailed flash guide
+✓ DISPLAY-CONFIGURATION.md     → How to setup display
+✓ RECOVERY-PROCEDURE.md        → How to flash back
+✓ BACKUP-INFO.md               → Original firmware info
+
+═══════════════════════════════════════════════════════════════
+
+🛡️  SAFETY:
+- ✅ Can always flash back to original
+- ✅ Won't brick device
+- ✅ Original firmware backed up
+- ✅ Tasmota has OTA recovery
+
+═══════════════════════════════════════════════════════════════
+
+📊 VERIFICATION:
+
+Tasmota:  MD5: 84a37748d43ca0d75742e6b389428061
+Original: MD5: b18f1a2abf43f6a24c5a6a4289789b7e
+
+═══════════════════════════════════════════════════════════════
+
+Ready? Start with: FLASH-INSTRUCTIONS.md
+
+Good luck! 🎉
